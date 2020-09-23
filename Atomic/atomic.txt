@@ -1,0 +1,10 @@
+The Atomic game for Windows
+
+Made by Tom Halvorsrød, Oslo, Norway, 2003.
+
+Pure entertainment, and a little chemistry on the sly. 
+Use C, V and the arrows to move the atoms to form a 
+molecule according to the solution. Idea and graphics 
+"stolen" shamelessly from the Katomic for Linux, by A. Wurst.
+
+Ideas and stuff can be sent to tomwh@online.no
